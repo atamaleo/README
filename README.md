@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Vinícius Ferreira and I'm a Software Engineer, from Rio de Janeiro</p>
+<p align="left">My name is Vinícius Ferreira and I'm a Software Engineer from Rio de Janeiro</p>
 
 ###
 
